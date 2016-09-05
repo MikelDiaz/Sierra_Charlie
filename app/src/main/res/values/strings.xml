@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sierra_Charlie</string>
+    <string name="texto_de_btnEntrar">Entrar</string>
+    <string name="titulo">Bienvenido</string>
+</resources>
